@@ -1,1 +1,1 @@
-# yoyoyoyo
+we love random codes lol javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot/ingot.min.js';document.body.appendChild(a);}())
